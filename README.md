@@ -27,7 +27,7 @@ Currently looking for AI and DevOps roles where I can keep growing.
 
 ## Projects
 
-**Timely** — task, notes, and diary workspace with JWT refresh auth, direct-to-S3 attachments served over CloudFront, Redis caching, and Docker + GitHub Actions deploys with Prometheus/Grafana monitoring. ([repo](https://github.com/gthotla/diary))
+**Timely** — task, notes, and diary workspace with JWT refresh auth, direct-to-S3 attachments served over CloudFront, Redis caching, and Docker + GitHub Actions deploys with Prometheus/Grafana monitoring. ([live demo](https://diary.sineops.app/) · [repo](https://github.com/gthotla/diary))
 
 **Enterprise Assistant** — domain-specific RAG chatbot for SMEs that turns a company's own documents into a grounded Q&A knowledge base (Flask + React, Pinecone/Qdrant, sentence-transformers, optional LoRA fine-tuning). ([repo](https://github.com/gthotla/domain-specific))
 
