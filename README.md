@@ -2,7 +2,9 @@
 
 # Hi, I'm Ganesh Thotla 👋
 
-**AI & DevOps Engineer** · CS Graduate, KMIT Hyderabad
+**Backend Engineer** · CS Graduate, KMIT Hyderabad
+
+Building AI-powered systems on cloud-native infrastructure — backend APIs and data layers in TypeScript, JavaScript, and Python (Express, Flask), deployed on Docker, AWS, and CI/CD, with grounded AI features (RAG, LLM integrations) on top.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://gthotla.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-thotla/)
