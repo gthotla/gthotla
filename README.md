@@ -25,32 +25,32 @@ Currently looking for AI and DevOps roles where I can keep growing.
 
 ## Projects
 
-**HostelOS** — a B2B SaaS platform for PG/hostel management, built for the Hyderabad market with a real beta customer pipeline already in motion. I did the ground-level lead research myself, targeting the Madhapur/Gachibowli corridor, and studied competitors like RentOk, PG Master, TrackMyPG, and SpaceBasic before designing the product. On the technical side it's built on Hono, Neon Postgres, and Drizzle ORM, with Razorpay for payments and Docker/AWS for deployment — the architecture leans on an API Gateway, load balancer, and reverse proxy setup. The frontend follows a design system I built out with specific Tailwind tokens.
+**Timely** — task, notes, and diary workspace with JWT refresh auth, direct-to-S3 attachments served over CloudFront, Redis caching, and Docker + GitHub Actions deploys with Prometheus/Grafana monitoring. ([repo](https://github.com/gthotla/diary))
 
-**GiftedPage** — a commercial platform for building personalized gift websites, aimed at the Indian, WhatsApp-native market. I've taken it through a full product planning cycle — PRD, design spec, and a UI redesign direction centered on a live-preview editor — before writing production code.
+**Enterprise Assistant** — domain-specific RAG chatbot for SMEs that turns a company's own documents into a grounded Q&A knowledge base (Flask + React, Pinecone/Qdrant, sentence-transformers, optional LoRA fine-tuning). ([repo](https://github.com/gthotla/domain-specific))
 
-**Other things I'm building**
-- An open-source, fully local time-tracking tool for GATE prep students, inspired by ActivityWatch's architecture — no cloud, runs entirely on your machine.
-- A Telugu-to-English content localization platform for subtitles and dubbing, using Sarvam AI for the voice/audio pipeline.
+**Currently building / exploring**
+- **HostelOS** — PG/hostel management backend in progress (Express + TypeScript, Drizzle/Postgres, S3 document storage).
+- **GiftedPage** — personalized gift websites; early planning and prototype stage.
 
 <br/>
 
 ## Tech Stack
 
 **Languages**
-`Java` `TypeScript` `JavaScript` `Python`
+`Python` `TypeScript` `JavaScript` `Java`
 
 **Backend**
-`Flask` `Node.js` `Express.js` `Hono`
+`Flask` `Node.js` `Express.js`
 
 **Databases**
-`PostgreSQL` `MongoDB` `MySQL` `Drizzle ORM`
+`PostgreSQL` `MongoDB` `Redis` `Drizzle ORM`
 
 **Infra & DevOps**
-`Docker` `AWS` `GitHub Actions` `Prometheus` `Grafana`
+`Docker` `AWS` `GitHub Actions` `Nginx` `Prometheus` `Grafana`
 
 **AI / ML**
-`TensorFlow` `Scikit-learn` `LangChain`
+`LangChain` `RAG` `Sentence Transformers` `Google Gemini` `Hugging Face` `Pinecone` `TensorFlow` `Scikit-learn`
 
 **Tools**
 `Git` `GitHub` `Postman` `VS Code`
